@@ -24,4 +24,4 @@ Currently I'm using 150 training samples from Iris dataset to train a neural net
 
 * Author：Wu Han
 * Home：http://wuhanstudio.cc
-* Email：wuhanstudio@hust.edu.cn
+* Contact：https://github.com/wuhanstudio/arduino_ann/issues
